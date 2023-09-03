@@ -14,7 +14,7 @@ More importantly, when it's running, it can bypass some global management sleep 
 Ensure you have the Go environment installed, recommended Go 1.19 or higher.
 
 1. Clone this repository:
-git clone [your repository address]
+git clone https://github.com/SimpleBiz/no-sleep
 
 2. Navigate to the project directory and install dependencies:
 ```
@@ -24,7 +24,7 @@ go mod tidy
 
 3. Run the program:
 ```
-go run main.go
+go run cmd/main.go
 ```
 
 ## Features

@@ -24,7 +24,7 @@ go mod tidy
 
 3. 运行程序：
 ```
-go run main.go
+go run cmd/main.go
 ```
 
 ## 功能
